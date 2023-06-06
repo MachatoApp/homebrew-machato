@@ -9,7 +9,7 @@ cask "machato" do
 
   livecheck do
     url "https://machatoapp.github.io/appcast.xml"
-    strategy :sparkle, &:version
+    strategy :sparkle, &:short_version
   end
 
   app "Machato.app"
