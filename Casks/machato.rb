@@ -1,6 +1,6 @@
 cask "machato" do
-  version "1.6.2"
-  sha256 "bf43d7dc92e15196ab844d8e6b1e888b220b6f931c38741ba205824d28c43d3c"
+  version "1.7.0"
+  sha256 "3cf399139819fcad708de3652d840949ac05da1fa560ddc0386ebdfd8a6fee2e"
 
   url "https://machatoapp.github.io/Machato%20#{version}.zip"
   name "Machato"
